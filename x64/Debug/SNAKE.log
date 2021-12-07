@@ -1,0 +1,4 @@
+﻿  gameManager.cpp
+C:\Users\DEDSComputacion\source\repos\FINAL_GUZMAN_RAMIRO\SNAKE\gameManager.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\DEDSComputacion\source\repos\FINAL_GUZMAN_RAMIRO\SNAKE\gameManager.cpp(23,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SNAKE.vcxproj -> C:\Users\DEDSComputacion\source\repos\FINAL_GUZMAN_RAMIRO\x64\Debug\SNAKE.exe
